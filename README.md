@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Subhajyoti</h1>
 <h3 align="center">Campus Growth Manager at Prepinsta ||UEMK CODING CLUB👨🏻‍🔧||ROBO MELLONTIKOS⚡️|| Computer Science 🧑‍🎓|| Arduino|| IOT|| python ||🐍 Research 🔬 project’s 🧑🏻‍💻 Technology 📡 Ethical Hacking👾|| IOS || Blockchain</h3>
-<image align="right" alt =“https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif)” width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<image align="right" alt ="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajyotibhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="subhajyotibhowmik" /> </p>
 

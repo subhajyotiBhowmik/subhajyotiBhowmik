@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Subhajyoti</h1>
 <h3 align="center">Campus Growth Manager at Prepinsta ||UEMK CODING CLUB👨🏻‍🔧||ROBO MELLONTIKOS⚡️|| Computer Science 🧑‍🎓|| Arduino|| IOT|| python ||🐍 Research 🔬 project’s 🧑🏻‍💻 Technology 📡 Ethical Hacking👾|| IOS || Blockchain</h3>
-<image align="right" alt ="coding" width="400" src="(https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)">
+<image align="right" alt ="coding" width="400" src=(https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajyotibhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="subhajyotibhowmik" /> </p>
 
